@@ -17,6 +17,7 @@ public class playersystem
     shaman.walk();
     shaman.run();
     shaman.run();
+    shaman.heal();
     shaman.ShowStats();
     
     Swordsman swordsman = new Swordsman("Oyasumi: The sword master");
