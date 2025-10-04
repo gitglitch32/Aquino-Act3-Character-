@@ -20,7 +20,7 @@ public class Character
     }
     public void run(){
     stamina -=3;
-    System.out.println("You ran fast! Your Stamina decreased by 1!");
+    System.out.println("You ran fast! Your Stamina decreased by 3!");
     }
     
     public void ShowStats(){
