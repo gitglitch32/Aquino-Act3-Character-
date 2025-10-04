@@ -10,6 +10,6 @@ public class Shaman extends Character
     health += 5;
     stamina += 5;
     mana += 5;
-    System.out.println("Player all stats increased by 5!");
+    System.out.println("Player used Heal! All stats increased by 5!");
     }
 }
