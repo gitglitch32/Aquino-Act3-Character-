@@ -28,7 +28,7 @@ public class Character
     System.out.println("Current Stats:"+name);
     System.out.println("Health:"+health);
     System.out.println("Stamina:"+stamina);
-    System.out.println("Mana"+mana);
+    System.out.println("Mana:"+mana);
     System.out.println("--------------------------------");
     }
     
